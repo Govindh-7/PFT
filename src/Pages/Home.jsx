@@ -52,7 +52,7 @@ const Home = ({ addTransaction, balance, clearAllTransactions }) => {
         </select>
         <div className="flex justify-center">
       <button type="submit" className="bg-blue-500 text-white hover:bg-black rounded p-2 md:w-1/3 mt-4">
-          Add Transaction
+          Add Transactions
         </button>
     </div>
       </form>
